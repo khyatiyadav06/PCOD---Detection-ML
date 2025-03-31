@@ -5,6 +5,10 @@
 ## Overview
 This project aims to detect Polycystic Ovarian Disease (PCOD) from ultrasound images using a Convolutional Neural Network (CNN). Instead of simple binary classification (PCOD/No PCOD), the model predicts a **severity score** by transforming a regression problem into a classification-based approach. A web-based frontend is also developed to allow users to upload ultrasound images and receive predictions.
 
+![WhatsApp Image 2025-03-31 at 21 33 32_daa62f3e](https://github.com/user-attachments/assets/109fcc31-d573-4e36-85f1-8617aa976968)
+
+![WhatsApp Image 2025-03-31 at 21 37 32_93879ed4](https://github.com/user-attachments/assets/cd5fb2e6-087f-4d37-aad3-7fe2e2ed4e7c)
+
 ## Approach
 1. **Dataset Preparation**: 
    - Ultrasound images are preprocessed
